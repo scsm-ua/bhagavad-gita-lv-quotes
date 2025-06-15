@@ -1,8 +1,12 @@
-Bhagavad Gita selected shlokas cards.
+# Bhagavad Gita selected shlokas cards
 
-Preview: https://scsm-ua.github.io/bhagavad-gita-ua-quotes/
+## Preview
 
-Based on boook: https://github.com/scsm-ua/bhagavad-gita-ua
+https://scsm-ua.github.io/bhagavad-gita-ua-quotes/
+
+## Based on
+
+The book: https://github.com/scsm-ua/bhagavad-gita-ua
 
 Book parsed data: https://github.com/scsm-ua/bhagavad-gita-demo/tree/gh-pages/json/ua
 
