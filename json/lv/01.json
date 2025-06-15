@@ -1,0 +1,828 @@
+{
+  "title": [
+    "1. nodaļa"
+  ],
+  "author": [
+    "Sainja daršana"
+  ],
+  "subtitle": [
+    "Armiju apskate"
+  ],
+  "verses": [
+    {
+      "number": "1.1",
+      "text": [
+        "dhṛtarāṣṭra uvāča",
+        "dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ",
+        "māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Dhritarāštra sacīja:",
+            "Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?"
+          ]
+        }
+      ],
+      "original": [
+        "धृतराष्ट्र उवाच\\",
+        "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।\\",
+        "मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.2",
+      "text": [
+        "sañdžaja uvāča",
+        "dṛṣṭvā tu pāṇḍavānīkaṁ vjūḍhaṁ durjodhanas tadā",
+        "āčārjam upasaṅgamja rādžā vačanam abravīt"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja atbildēja:",
+            "Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie viņa ar sekojošiem vārdiem."
+          ]
+        }
+      ],
+      "original": [
+        "सञ्जय उवाच\\",
+        "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\\",
+        "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.3",
+      "text": [
+        "paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatīṁ čamūm",
+        "vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhīmatā"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā izkārtojis tavs izcilais skolnieks Dhrištadjumna, Drupadas dēls."
+          ]
+        }
+      ],
+      "original": [
+        "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\\",
+        "व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.4-6",
+      "text": [
+        "atra śūrā maheṣvāsā bhīmārdžuna-samā judhi",
+        "jujudhāno virāṭaś ča drupadaś ča mahā-rathaḥ",
+        "",
+        "dhṛṣṭaketuś čekitānaḥ kāśīrājaś ča vīrjavān",
+        "purudžit kuntibhodžaś ča śaibjaś ča nara-puṅgavaḥ",
+        "",
+        "judhāmanjuś ča vikrānta uttamaudžāś ča vīrjavān",
+        "saubhadro draupadejāś ča sarva eva mahā-rathāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Šajā armijā ir dižie loka šāvēji Bhīma un Ardžūna, kā arī citi tik pat prasmīgi kareivji: Satjakī, valdnieks Virata, varenais karotājs Drupada, Dhrištaketū, Cekitāna, varonīgais rādža Kašī, Purūdžita, Kuntibhodža, cēlais rādža Saibja, drosmīgais Judhāmanjū, dižais varonis Uttamaudža, Abhimanjū un Draupadī dēli. Bez šaubām, visi viņi ir diži kareivji."
+          ]
+        }
+      ],
+      "original": [
+        "अत्र श‍ूरा महेष्वासा भीमार्जुनसमा युधि ।\\",
+        "युयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥",
+        "",
+        "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\\",
+        "पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥",
+        "",
+        "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\\",
+        "सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.7",
+      "text": [
+        "asmākaṁ tu viśiṣṭā je tān nibodha dvidžottama",
+        "nājakā mama sainjasja saṁdžñārthaṁ tān bravīmi te"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Labākais no divreiz dzimušajiem, uzklausi tagad arī manas armijas izcilākos vadoņus. Es nosaukšu tev viņu vārdus!"
+          ]
+        }
+      ],
+      "original": [
+        "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\\",
+        "नायका मम सैन्यस्य संज्ञार्थ तान्ब्रवीमि ते ॥ ७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.8-9",
+      "text": [
+        "bhavān bhīṣmaś ča karṇaś ča kṛpaś ča samitiñdžajaḥ",
+        "aśvatthāmā vikarṇaś ča saumadattir džajadrathaḥ",
+        "",
+        "anje ča bahavaḥ śūrā mad-arthe tjakta-džīvitāḥ",
+        "nānā-śastra-praharaṇāḥ sarve juddha-viśāradāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Neskaitot tevi, ak, godājamais, tie ir Bhīšma un sakāvi Kripāčārjas kaujā neiepazinošais Karna, kā arī Ašvatthāma, Vikarna, Bhūrišrava un Džajadratha, kā arī daudzi citi cīņas mākslu labi apguvuši kareivji. Visi viņi lieliski rīkojas ar dažādiem ieročiem un ir pilni apņēmības atdot par mani savas dzīvības."
+          ]
+        }
+      ],
+      "original": [
+        "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\\",
+        "अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥",
+        "",
+        "अन्ये च बहवः श‍ूरा मदर्थे त्यक्तजीविताः ।\\",
+        "नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.10",
+      "text": [
+        "aparjāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam",
+        "parjāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pateicoties Bhīšmas drošajai aizsardzībai, mūsu karapulka spēks ir neizmērāms. Tikmēr Bhīmas sargātās Pāndavu armijas spēks ir ierobežots."
+          ]
+        }
+      ],
+      "original": [
+        "अपर्याप्त‍ं तदस्माकं बलं भीष्माभिरक्षितम् ।\\",
+        "पर्याप्त‍ं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥ १० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.11",
+      "text": [
+        "ajaneṣu ča sarveṣu jathā-bhāgam avasthitāḥ",
+        "bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēļ mums visiem, kaujas laikā atrodoties savās pozīcijās, visos iespējamos veidos jāaizsargā vectēvs Bhīšma."
+          ]
+        }
+      ],
+      "original": [
+        "अयनेषु च सर्वेषु यथाभागवमस्थिताः ।\\",
+        "भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥ ११ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.12",
+      "text": [
+        "tasja sañdžanajan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ",
+        "siṁha-nādaṁ vinadjoččaiḥ śaṅkhaṁ dadhmau pratāpavān"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Vēloties iedvesmot Durjodhanu, Bhīšma, Kurū dinastijas vecākais, sāka skaļi pūst savā gliemežnīcā, kuras radītā skaņa līdzinājās lauvas rēcienam."
+          ]
+        }
+      ],
+      "original": [
+        "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\\",
+        "सिंहनादं विनद्योच्च‍ैः शङ्खं दध्मौ प्रतापवान् ॥ १२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.13",
+      "text": [
+        "tataḥ śaṅkhāś ča bherjaś ča paṇavānaka-gomukhāḥ",
+        "sahasaivābhjahanjanta sa śabdas tumulo ’bhavat"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tajā pašā mirklī, radot apdullinošu troksni, vienlaicīgi sāka skanēt daudzskaitlīgas gliemežnīcas, timpani, bungas un citi instrumenti."
+          ]
+        }
+      ],
+      "original": [
+        "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\\",
+        "सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत ॥ १३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.14",
+      "text": [
+        "tataḥ śvetair hajair jukte mahati sjandane sthitau",
+        "mādhavaḥ pāṇḍavaś čaiva divjau śaṅkhau pradadhmatuḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tad Šrī Krišna un Ardžūna, sēžot augstu majestātiskos kaujas ratos, kuros bija iejūgti balti zirgi, sāka pūst savas dievišķās gliemežnīcas."
+          ]
+        }
+      ],
+      "original": [
+        "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\\",
+        "माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥ १४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.15",
+      "text": [
+        "pāñčadžanjaṁ hṛṣīkeśo devadattaṁ dhanañdžajaḥ",
+        "pauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhīma-karmā vṛkodaraḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Hrišīkēša (Šrī Krišna) pūta savu gliemežnīcu Pānčadžanjū, Dhanandžaja (Ardžūna) — savu gliemežnīcu Dēvadattu. Tikmēr ar krāšņiem varoņdarbiem slavenais Bhīmasena, negausīgais ēdājs — “vilka vēders”, pūta milzīgu gliemežnīcu Paundru."
+          ]
+        }
+      ],
+      "original": [
+        "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\\",
+        "पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥ १५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.16",
+      "text": [
+        "anantavidžajaṁ rādžā kuntī-putro judhiṣṭhiraḥ",
+        "nakulaḥ sahadevaś ča sughoṣa-maṇipuṣpakau"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Rādža Judhišthira, Kuntī dēls, pūta gliemežnīcu Anantavidžaju. Nakula pūta Sughošu, bet Sahadēvs — Manipušpaku."
+          ]
+        }
+      ],
+      "original": [
+        "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\\",
+        "नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥ १६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.17-18",
+      "text": [
+        "kāśjaś ča parameṣv-āsaḥ śikhaṇḍī ča mahā-rathaḥ",
+        "dhṛṣṭadjumno virāṭaś ča sātjakiś čāparādžitaḥ",
+        "",
+        "drupado draupadejāś ča sarvaśaḥ pṛthivī-pate",
+        "saubhadraś ča mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Zemes valdniek! Savās gliemežnīcās pūta arī prasmīgais loka šāvējs Kāšīrādža, dižais kareivis Sikhandī, Dhrištadjumna, rādža Virāta, neuzvaramais Sātjakī, rādža Drupada, Draupadī dēli un varenais Abhimanjū, Subhadras dēls."
+          ]
+        }
+      ],
+      "original": [
+        "काश्यश्च परमेष्वास: शिखण्डी च महारथ: ।\\",
+        "धृष्टद्युम्न‍ो विराटश्च सात्यकिश्‍चापराजित: ॥ १७ ॥",
+        "",
+        "द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते ।\\",
+        "सौभद्रश्च महाबाहु: शङ्खान्दध्मु: पृथक्पृथक् ॥ १८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.19",
+      "text": [
+        "sa ghoṣo dhārtarāṣṭrāṇāṁ hṛdajāni vjadārajat nabhaś ča pṛthivīñ čaiva tumulo ’bhjanunādajan"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Šo gliemežnīcu pērkonam līdzīgā skaņa, atbalsojoties uz zemes un debesīs, lika satrūkties Dhritarāštras dēlu sirdīm."
+          ]
+        }
+      ],
+      "original": [
+        "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\\",
+        "नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् ॥ १९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.20",
+      "text": [
+        "atha vjavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvadžaḥ",
+        "pravṛtte śastra-sampāte dhanur udjamja pāṇḍavaḥ",
+        "hṛṣīkeśaṁ tadā vākjam idam āha mahī-pate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, valdniek! Kad pienāca laiks sākt cīņu, Ardžūna, stāvot kaujas ratos, kuru karogu rotāja Hanumāna attēls, atvilka sava loka stiegru un sagatavojās raidīt bultas. Taču, palūkojies uz taviem ierindā stāvošajiem, kaujai gatavajiem dēliem, viņš vērsās pie Diev-Kunga Krišnas ar šādiem vārdiem."
+          ]
+        }
+      ],
+      "original": [
+        "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\\",
+        "प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ।\\",
+        "हृषीकेशं तदा वाक्यमिदमाह महीपते ॥ २० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.21-23",
+      "text": [
+        "ardžuna uvāča",
+        "senajor ubhajor madhje rathaṁ sthāpaja me ’čjuta",
+        "jāvad etān nirīkṣe ’haṁ joddhu-kāmān avasthitān",
+        "",
+        "kair majā saha joddhavjam asmin raṇa-samudjame",
+        "",
+        "jotsjamānān avekṣe ’haṁ ja ete ’tra samāgatāḥ",
+        "dhārtarāṣṭrasja durbuddher juddhe prija-čikīrṣavaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacīja:",
+            "Ak, Nekļūdīgais! Izved manus kaujas ratus lauka vidū un novieto tos starp abām armijām, lai es varu redzēt kareivjus, kuri alkst cīnīties pret mums šajā varenajā kaujā. Es vēlos apskatīt tos, kuri atnākuši, lai spēkotos ar mani, nostājoties ļaunprātīgā Durjodhana pusē."
+          ]
+        }
+      ],
+      "original": [
+        "अर्जुन उवाच\\",
+        "सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ।",
+        "",
+        "यावदेतान्निरीक्षेऽहं योद्‍धुकामानवस्थितान् ॥ २१ ॥\\",
+        "कैर्मया सह योद्धव्यमस्मिन्‍रणसमुद्यमे ॥ २२ ॥",
+        "",
+        "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\\",
+        "धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥ २३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.24",
+      "text": [
+        "sañdžaja uvāča",
+        "evam ukto hṛṣīkēśo guḍākeśena bhārata senajor",
+        "ubhajor madhje sthāpajitvā rathottamam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja sacīja:",
+            "Ak, Bhāratas pēcnācēj, paklausot Ardžūnas lūgumam, Krišna novietoja izcilos kaujas ratus starp abiem karapulkiem."
+          ]
+        }
+      ],
+      "original": [
+        "सञ्जय उवाच\\",
+        "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\\",
+        "सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥ २४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.25",
+      "text": [
+        "bhīṣma-droṇa-pramukhataḥ sarveṣāñ ča mahīkṣitām",
+        "uvāča pārtha paśjaitān samavetān kurūn iti"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Stāvot Bhīšmas, Drona un citu dižu valdnieku priekšā, Diev-Kungs teica Ardžūnam: «Lūk, Pārtha, uzlūko visus šeit sanākušos Kurū»."
+          ]
+        }
+      ],
+      "original": [
+        "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\\",
+        "उवाच पार्थ पश्यैतान्समवेतान्कुरुनिति ॥ २५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.26",
+      "text": [
+        "tatrāpaśjat sthitān pārthaḥ pitṛ¯n atha pitāmahān",
+        "āčārjān mātulān bhrātṛ¯n putrān pautrān sakhīṁs tathā",
+        "svasuran suhrdas čaiva senajor ubhajor api"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tad abos karapulkos Ardžūna ieraudzīja dzimtu vecākos no tēva un mātes puses, savus vectēvus, skolotājus, brāļus, dēlus, savus mazdēlus un sievastēvus, draugus un labvēļus."
+          ]
+        }
+      ],
+      "original": [
+        "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\\",
+        "आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा।\\",
+        "श्वश‍ुरान्सुहृदश्चैव सेनयोरुभयोरपि ॥ २६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.27",
+      "text": [
+        "tān samīkṣja sa kauntejaḥ sarvān bandhūn avasthitān",
+        "kṛpajā parajāviṣṭo viṣīdann idam abravīt"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Redzot kaujas laukā radiniekus un citus tuvus cilvēkus, Ardžūna, līdzcietības pārņemts un bēdu sagrauts, teica sekojošo."
+          ]
+        }
+      ],
+      "original": [
+        "तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ।\\",
+        "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ॥ २७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.28",
+      "text": [
+        "ardžuna uvāča",
+        "dṛṣṭvemān svadžanān kṛṣṇa jujutsūn samavasthitān",
+        "sīdanti mama gātrāṇi mukhañ ča pariśuṣjati"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacīja:",
+            "Ak, Krišna! Redzot savā priekšā radiniekus un draugus, kas sanākuši šeit un alkst kaujas, es jūtu, kā spēki mani pamet un mute izkalst sausa."
+          ]
+        }
+      ],
+      "original": [
+        "अर्जुन उवाच\\",
+        "दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ।\\",
+        "सीदन्ति मम गात्राणि मुखं च परिश‍ुष्यति ॥ २८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.29",
+      "text": [
+        "vepathuś ča śarīre me roma-harṣaś ča džājate",
+        "gāṇḍīvaṁ sraṁsate hastāt tvak čaiva paridahjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Visu ķermeni pārņem trīsas un mati uz tā slejas stāvus. Mana āda kvēlo kā ugunī, bet loks Gandiva slīd ārā no rokām."
+          ]
+        }
+      ],
+      "original": [
+        "वेपथुश्च शरीरे मे रोमहर्षश्च जायते ।\\",
+        "गाण्डीवं स्रंसते हस्तात्त्वक्च‍ैव परिदह्यते ॥ २९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.30",
+      "text": [
+        "na ča śaknomj avasthātuṁ bhramatīva ča me manaḥ",
+        "nimittāni ča paśjāmi viparītāni keśava"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Kēšava! Manas kājas grīļojas, mans prāts ir apjucis un it visur es redzu vienīgi ļaunu vēstošas zīmes."
+          ]
+        }
+      ],
+      "original": [
+        "न च शक्न‍ोम्यवस्थातुं भ्रमतीव च मे मनः ।\\",
+        "निमित्तानि च पश्यामि विपरीतानि केशव ॥ ३० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.31",
+      "text": [
+        "na ča śrejo ’nupaśjāmi hatvā svadžanam āhave",
+        "na kāṅkṣe vidžajaṁ kṛṣṇa na ča rādžjaṁ sukhāni ča"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Krišna! Es nesaprotu, kādu labumu mēs iegūsim, nogalinot šajā kaujā radiniekus? Es nevēlos ne uzvaras, ne karaļvalsti!"
+          ]
+        }
+      ],
+      "original": [
+        "न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ।\\",
+        "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ॥ ३१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.32-33",
+      "text": [
+        "kiṁ no rādžjena govinda kiṁ bhogair džīvitena vā",
+        "jeṣām arthe kāṅkṣitaṁ no rādžjaṁ bhogāḥ sukhāni ča",
+        "",
+        "ta ime ’vasthitā juddhe prāṇāṁs tjaktvā dhanāni ča",
+        "āčārjāḥ pitaraḥ putrās tathaiva ča pitāmahāḥ",
+        "",
+        "mātulāḥ śvaśurāḥ pautrāḥ śjālāḥ sambandhinas tathā",
+        "etān na hantum iččhāmi ghnato ’pi madhusūdana"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Govinda! Vai gan ir kāda jēga no karaļvalsts un pasaulīgiem priekiem, vai mūsu dzīve ir ko vērta, ja tie, kuru dēļ mēs tiecamies pēc tā visa — skolotāji, tēva dzimtas vecākie, dēli, vectēvi, tēvoči no mātes puses, sievastēvi, mazdēli, sievu brāļi un citi radinieki, stāv mums pretī kaujas laukā un ir gatavi šķirties no dzīvības un bagātības? Tādēļ, Madhūsudan, pat, ja viņi alkst manas nāves, es nevēlos nogalināt viņus!"
+          ]
+        }
+      ],
+      "original": [
+        "किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ।\\",
+        "येषामर्थे काङ्‍‍क्षितं नो राज्यं भोगाः सुखानि च ॥ ३२ ॥",
+        "",
+        "त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ।\\",
+        "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ॥ ३३ ॥",
+        "",
+        "मातुलाः श्वश‍ुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ।\\",
+        "एतान्न हन्तुमिच्छामि घ्न‍तोऽपि मधुसूदन ॥ ३४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.35",
+      "text": [
+        "api trailokja-rādžjasja hetoḥ kiṁ nu mahī-kṛte",
+        "nihatja dhārtarāṣṭrān naḥ kā prītiḥ sjādž džanārdana"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Džanārdana, vai mēs varēsim būt laimīgi, nogalinot Dhritarāštras dēlus, pat, ja iegūsim varu pār visām trim pasaulēm, nemaz nerunājot par valdīšanu pār Zemi?"
+          ]
+        }
+      ],
+      "original": [
+        "अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ।\\",
+        "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्ज‍नार्दन ॥ ३५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.36",
+      "text": [
+        "pāpam evāśrajed asmān hatvaitān ātatājinaḥ",
+        "tasmān nārhā vajaṁ hantuṁ dhārtarāṣṭrān svabāndhavān",
+        "svadžanaṁ hi kathaṁ hatvā sukhinaḥ sjāma mādhava"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Nogalinot savus skolotājus un labdarus, mēs sēsim vienīgi grēku, neskatoties uz to, ka šo karu uzsāka viņi. Mēs nedrīkstam iznīcināt mūsu radiniekus, Dhritarāštras dēlus. Ak, Mādhava, vai gan varam mēs būt laimīgi, samaksājot par to ar savu tuvinieku dzīvībām?"
+          ]
+        }
+      ],
+      "original": [
+        "पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ।\\",
+        "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्सबान्धवान् ।\\",
+        "स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥ ३६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.37-38",
+      "text": [
+        "jadjapj ete na paśjanti lobhopahata-četasaḥ",
+        "kula-kṣaja-kṛtaṁ doṣaṁ mitra-drohe ča pātakam",
+        "",
+        "kathaṁ na džñejam asmābhiḥ pāpād asmān nivartitum",
+        "kula-kṣaja-kṛtaṁ doṣaṁ prapaśjadbhir džanārdana"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Džanārdana! Šie cilvēki ir alkatības apžilbināti un nesaskata grēku draugu nodevībā un dinastijas iznīcināšanā. Taču kādēļ mēs, apzinoties brāļu nāves nesošā kara ļaunumu, nevaram atturēties no šī nozieguma?"
+          ]
+        }
+      ],
+      "original": [
+        "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\\",
+        "कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥ ३७ ॥",
+        "",
+        "कथं न ज्ञेयमस्माभिः पापादस्मन्निवर्तितुम् ।\\",
+        "कुलक्षयकृतं दोषं प्रपश्यद्भ‍िर्जनार्दन ॥ ३८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.39",
+      "text": [
+        "kula-kṣaje praṇaśjanti kula-dharmāḥ sanātanāḥ",
+        "dharme naṣṭe kulaṁ kṛtsnam adharmo ’bhibhavatj uta"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ar dzimtas krišanu izzūd tās mūžsenās garīgās tradīcijas. Kad tradīcijas tiek pārkāptas, bezdievība sāk valdīt pār palikušajiem dzimtas pārstāvjiem."
+          ]
+        }
+      ],
+      "original": [
+        "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\\",
+        "धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥ ३९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.40",
+      "text": [
+        "adharmābhibhavāt kṛṣṇa praduṣjanti kula-strijaḥ",
+        "strīṣu duṣṭāsu vārṣṇeja džājate varṇa-saṅkaraḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Kad g̒imenē valda bezdievība, ak, Krišna, šīs g̒imenes sievietes kļūst netiklas. Sieviešu degradācija, ak, Vrišni pēcteci, noved pie dievticību zaudējušiem, nevēlamiem pēcnācējiem."
+          ]
+        }
+      ],
+      "original": [
+        "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\\",
+        "स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥ ४० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.41",
+      "text": [
+        "saṅkaro narakājaiva kula-ghnānāṁ kulasja ča",
+        "patanti pitaro hj eṣāṁ lupta-piṇḍodaka-krijāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Dievticību zaudējuši pēcnācēji nolemj ellei gan pašu dzimtas pārstāvjus, gan arī tās iznīcinātājus. Šāds liktenis sagaida arī dzimtas senčus, jo tie no saviem pēctečiem vairs nesaņem ūdeni un ēdienu."
+          ]
+        }
+      ],
+      "original": [
+        "सङ्करो नरकायैव कुलघ्न‍ानां कुलस्य च ।\\",
+        "पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥ ४१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.42",
+      "text": [
+        "doṣair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ",
+        "utsādjante džāti-dharmāḥ kula-dharmāś ča śāśvatāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Šādi dinastijas iznīcinātāju ļaunprātīgā rīcība noved pie dievticību zaudējušu, nevēlamu pēcnācēju dzimšanas un sagrauj mūžsenos g̒imenes un sabiedrības pamatus."
+          ]
+        }
+      ],
+      "original": [
+        "दोषैरेतैः कुलघ्न‍ानां वर्णसङ्करकारकैः ।\\",
+        "उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥ ४२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.43",
+      "text": [
+        "utsanna-kula-dharmāṇāṁ manuṣjāṇāṁ džanārdana",
+        "narake nijataṁ vāso bhavatītj anuśuśruma"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Džanārdana! Mēs esam dzirdējuši, ka tie, kas izposta g̒imeniskās un garīgās tradīcijas, noteikti nonāk ellē."
+          ]
+        }
+      ],
+      "original": [
+        "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\\",
+        "नरके नियतं वासो भवतीत्यनुश‍ुश्रुम ॥ ४३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.44",
+      "text": [
+        "aho bata mahat-pāpaṁ kartuṁ vjavasitā vajam",
+        "jad rādžja-sukha-lobhena hantuṁ svadžanam udjatāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Kāda bēda! Kādu briesmīgu grēku mēs esam gatavi paveikt! Alkstot valdīt, mēs gatavojamies laupīt mūsu radinieku dzīvības!"
+          ]
+        }
+      ],
+      "original": [
+        "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\\",
+        "यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥ ४४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.45",
+      "text": [
+        "jadi mām apratīkāram aśastraṁ śastra-pāṇajaḥ",
+        "dhārtarāṣṭrā raṇe hanjus tan me kṣemataraṁ bhavet"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Labāk, lai mani, neapbruņotu un neizrādošu nekādu pretestību, Dhritaraštras dēli šajā kaujas laukā nogalina!"
+          ]
+        }
+      ],
+      "original": [
+        "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\\",
+        "धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥ ४५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "1.46",
+      "text": [
+        "sañdžaja uvāča",
+        "evam uktvārdžunaḥ saṅkhje rathopastha upāviśat",
+        "visṛdžja sa-śaraṁ čāpaṁ śoka-saṁvigna-mānasaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja sacīja:",
+            "Pateicis kaujas laukā šos vārdus, nolicis malā loku un bultas, Ardžūna bēdu sagrauts ratos apsēdās."
+          ]
+        }
+      ],
+      "original": [
+        "सञ्जय उवाच\\",
+        "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् ।\\",
+        "विसृज्य सशरं चापं शोकसंविग्न‍मानसः ॥ ४६ ॥"
+      ],
+      "word_by_word": []
+    }
+  ]
+}

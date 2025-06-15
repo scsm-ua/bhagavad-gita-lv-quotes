@@ -1,0 +1,885 @@
+{
+  "title": [
+    "3. nodaļa"
+  ],
+  "author": [
+    "Karma-joga"
+  ],
+  "subtitle": [
+    "Darbības joga"
+  ],
+  "verses": [
+    {
+      "number": "3.1",
+      "text": [
+        "ardžuna uvāča",
+        "džjājasī čet karmaṇas te matā buddhir džanārdana",
+        "tat kiṁ karmaṇi ghore māṁ nijodžajasi keśava"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna jautāja:",
+            "Ak, Džanārdana! Ak, Kešava! Ja Tu sludini, ka apgaismota saprāta sasniegšana ir labāka par darbību veikšanu, tad kādēļ Tu aicini mani cīnīties šajā šausmīgajā kaujā?"
+          ]
+        }
+      ],
+      "original": [
+        "अर्जुन उवाच\\",
+        "ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\\",
+        "तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥ १ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.2",
+      "text": [
+        "vjāmiśreṇeva vākjena buddhiṁ mohajasīva me",
+        "tad ekaṁ vada niśčitja jena śrejo ’ham āpnujām"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tevis teiktais man šķiet divdomīgs un mulsinošs. Lūdzu, paskaidro, kas patiesi man ir svētīgāk."
+          ]
+        }
+      ],
+      "original": [
+        "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\\",
+        "तदेकं वद निश्चित्य येन श्रेयोऽहमाप्‍नुयाम् ॥ २ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.3",
+      "text": [
+        "śrī-bhagavān uvāča",
+        "loke ’smin dvi-vidhā niṣṭhā purā proktā majānagha",
+        "džñāna-jogena sāṅkhjānāṁ karma-jogena joginām"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personība atbildēja:",
+            "Bezgrēcīgais Ardžūna, Es jau aprakstīju divus ceļus, kas atbilst praktizējošo dažādajām nosliecēm. Džnana-jogi iet matērijas un gara filosofiskās izziņas ceļu, kamēr karma-jogi seko nesavtīgas darbības ceļam."
+          ]
+        }
+      ],
+      "original": [
+        "श्रीभगवानुवाच\\",
+        "लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\\",
+        "ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ॥ ३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.4",
+      "text": [
+        "na karmaṇām anārambhān naiṣkarmajṁ puruṣo ’śnute",
+        "na ča sannjasanād eva siddhiṁ samadhigaččhati"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Atsakoties no pienākuma pildīšanas, cilvēks neatbrīvojas no darbības sekām. Pati par sevi atsacīšanās nenovedīs viņu pie pilnības."
+          ]
+        }
+      ],
+      "original": [
+        "न कर्मणामनारम्भान्नैष्कर्म्य पुरुषोऽश्न‍ुते ।\\",
+        "न च सन्न्यसनादेव सिद्धिं समधिगच्छति ॥ ४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.5",
+      "text": [
+        "na hi kaśčit kṣaṇam api džātu tiṣṭhatj akarmakṛt",
+        "kārjate hj avaśaḥ karma sarvaḥ prakṛti-džair guṇaiḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Neviens nav spējīgs atteikties no darbības pat uz mirkli. Pakļaujoties materiālajai energ̒ijai, kas sastāv no trīs gunām (matērijas stāvokļiem), ikviens ir spiests rīkoties."
+          ]
+        }
+      ],
+      "original": [
+        "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\\",
+        "कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥ ५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.6",
+      "text": [
+        "karmendrijāṇi saṁjamja ja āste manasā smaran",
+        "indrijārthān vimūḍhātmā mithjāčāraḥ sa učjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kas ārēji valda pār savām maņām, taču prātā turpina lolot domas par maņu objektiem, māna gan sevi, gan citus."
+          ]
+        }
+      ],
+      "original": [
+        "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\\",
+        "इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥ ६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.7",
+      "text": [
+        "jas tv indrijāṇi manasā nijamjārabhate ’rdžuna",
+        "karmendrijaiḥ karma-jogam asaktaḥ sa viśiṣjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Augstāks par šādu divkosīgu askētu, Ardžūna, ir tas, kas, paliekot šajā pasaulē un liekot lietā prātu un maņas, veic nesavtīgu darbību un nepieķeras sava darba augļiem."
+          ]
+        }
+      ],
+      "original": [
+        "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\\",
+        "कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥ ७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.8",
+      "text": [
+        "nijataṁ kuru karma tvaṁ karma džjājo hj akarmaṇaḥ",
+        "śarīra-jātrāpi ča te na prasiddhjed akarmaṇaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pildi tev paredzēto pienākumu, jo tas ir labāk par bezjēdzīgu bezdarbību. Bez darbības nav iespējams uzturēt pat savu fizisko ķermeni."
+          ]
+        }
+      ],
+      "original": [
+        "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\\",
+        "शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥ ८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.9",
+      "text": [
+        "jadžñārthāt karmaṇo ’njatra loko ’jaṁ karma-bandhanaḥ",
+        "tad-arthaṁ karma kaunteja mukta-saṅgaḥ samāčara"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Nesavtīgu darbību, kuru veic kā veltījumu Visaugstajam Kungam, sauc par ziedojumu, jadžnu. Darbība, kuru veic jebkāda cita mērķa vārdā, Ardžūna, ir cēlonis verdzībai šajā atkārtotu dzimšanu un nāvju pasaulē. Tādēļ savus pienākumus pildi ziedošanas noskaņojumā, atbrīvojoties no tieksmes baudīt augļus!"
+          ]
+        }
+      ],
+      "original": [
+        "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\\",
+        "तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥ ९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.10",
+      "text": [
+        "saha-jadžñāḥ pradžāḥ sṛṣṭvā purovāča pradžāpatiḥ",
+        "anena prasaviṣjadhvam eṣa vo ’stv iṣṭa-kāma-dhuk"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Radīšanas pirmsākumos Brahma radīja visas dzīvās būtnes kopā ar ziedošanas principu un sniedza sekojošu norādījumu: «Izpildiet šo rīkojumu un jūs gaidīs uzplaukums. Lai šī jadžna dāvā jums visu vēlamo»."
+          ]
+        }
+      ],
+      "original": [
+        "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\\",
+        "अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥ १० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.11",
+      "text": [
+        "devān bhāvajatānena te devā bhāvajantu vaḥ",
+        "parasparaṁ bhāvajantaḥ śrejaḥ param avāpsjatha"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "«Ieprieciniet ar jadžnu visuma dievības. Tās būs apmierinātas un dāvās jums visu vēlamo. Šādi jūs iegūsiet mieru un labklājību.»"
+          ]
+        }
+      ],
+      "original": [
+        "देवान्भावयतातेन ते देवा भावयन्तु वः ।\\",
+        "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥ ११ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.12",
+      "text": [
+        "iṣṭān bhogān hi vo devā dāsjante jadžña-bhāvitāḥ",
+        "tair dattān apradājaibhjo jo bhuṅkte stena eva saḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Gandarīti par viņiem veltīto jadžnu, padievi apmierinās visas viņus pielūdzošo vajadzības. Savukārt tas, kas izbauda apkārtējo pasauli un nepiedāvā ziedojumus padieviem, bez šaubām, ir zaglis."
+          ]
+        }
+      ],
+      "original": [
+        "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\\",
+        "तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥ १२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.13",
+      "text": [
+        "jadžña-śiṣṭāśinaḥ santo mučjante sarva-kilbiṣaiḥ",
+        "bhuñdžate te tv aghaṁ pāpā je pačantj ātma-kāraṇāt"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Uzņemot tādu ēdienu, kas ziedošanas noskaņojumā vispirms kā pienesums piedāvāts Diev-Kungam, tikumīgas dvēseles atbrīvojas no visiem grēkiem. Savukārt tas, kas gatavo savas baudas dēļ, ēd vienu vienīgu grēku."
+          ]
+        }
+      ],
+      "original": [
+        "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषै ।\\",
+        "भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥ १३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.14",
+      "text": [
+        "annād bhavanti bhūtāni pardžanjād anna-sambhavaḥ",
+        "jadžñād bhavati pardžanjo jadžñaḥ karma-samudbhavaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pateicoties pārtikai, rodas dzīvu būtņu ķermeņi. Lai rastos pārtika, nepieciešams lietus; lietus līst pateicoties ziedojumu piedāvāšanai. Savukārt ziedošana rodas, kad pielūdzēji kalpošanas noskaņojumā veic noteiktas darbības."
+          ]
+        }
+      ],
+      "original": [
+        "अन्नाद्भ‍वन्ति भूतानि पर्जन्यादन्नसम्भवः ।\\",
+        "यज्ञा‍द्भ‍‍वति पर्जन्यो यज्ञः कर्मसमुद्भ‍वः ॥ १४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.15",
+      "text": [
+        "karma brahmodbhavaṁ viddhi brahmākṣara-samudbhavam",
+        "tasmāt sarva-gataṁ brahma nitjaṁ jadžñe pratiṣṭhitam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka to cilvēku darbības, kas pielūdz un kalpo, balstās uz Vēdu atklāsmēm. Vēdu rašanās avots ir garīgā Realitāte. Tādēļ visur esošais Dievišķums vienmēr ir klātesošs ziedošanā, kuru izpilda saskaņā ar rakstu mācībām."
+          ]
+        }
+      ],
+      "original": [
+        "कर्म ब्रह्मोद्भ‍वं विद्धि ब्रह्माक्षरसमुद्भ‍वम् ।\\",
+        "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥ १५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.16",
+      "text": [
+        "evaṁ pravartitaṁ čakraṁ nānuvartajatīha jaḥ",
+        "aghājur indrijārāmo moghaṁ pārtha sa džīvati"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna! Tas, kurš neizprot ziedošanas principu un tā rezultātus, dzīvo veltīgu dzīvi, šķiežot laiku bezjēdzīgai maņu apmierināšanai."
+          ]
+        }
+      ],
+      "original": [
+        "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\\",
+        "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥ १६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.17",
+      "text": [
+        "jas tv ātma-ratir eva sjād ātma-tṛptaś ča mānavaḥ",
+        "ātmanj eva ča santuṣṭas tasja kārjaṁ na vidjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Vienīgi tam nepastāv iepriekš noliktu pienākumu, kurš, ejot pašizziņas ceļu, smeļ svētlaimi savā garīgajā dabā un pie jebkādiem apstākļiem ir apmierināts."
+          ]
+        }
+      ],
+      "original": [
+        "यस्त्वात्मरतिरेव स्यादात्मतृप्त‍श्च मानवः ।\\",
+        "आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥ १७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.18",
+      "text": [
+        "naiva tasja kṛtenārtho nākṛteneha kaśčana",
+        "na čāsja sarva-bhūteṣu kaśčid artha-vjapāśrajaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tādai pilnību sasniegušai personībai nav mērķu šajā pasaulē, neskatoties uz to, vai viņa veic kādas darbības, vai ir atsacījusies no tām. Tāpat arī sava garīgā ceļa mērķa sasniegšanā viņa nav atkarīga no citām dzīvām būtnēm."
+          ]
+        }
+      ],
+      "original": [
+        "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\\",
+        "न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥ १८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.19",
+      "text": [
+        "tasmād asaktaḥ satataṁ kārjaṁ karma samāčara",
+        "asakto hj āčaran karma param āpnoti pūruṣaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēļ pildi savu pienākumu apzinīgi un neraizējies par sekmīgu vai nesekmīgu iznākumu. Tādējādi, apzinoties, ka viss notiek saskaņā ar Dieva gribu, tu sasniegsi augstāko mērķi."
+          ]
+        }
+      ],
+      "original": [
+        "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\\",
+        "असक्तो ह्याचरन्कर्म परमाप्‍नोति पूरूषः ॥ १९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.20",
+      "text": [
+        "karmaṇaiva hi saṁsiddhim āsthitā džanakādajaḥ",
+        "loka-saṅgraham evāpi sampaśjan kartum arhasi"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Svētais rādža Džanaka, kā arī citi valdnieki sasniedza pilnību, pateicoties sava pienākuma pildīšanai. Tāpat arī tev, rūpējoties par cilvēku labklājību, jāpilda savs pienākums."
+          ]
+        }
+      ],
+      "original": [
+        "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\\",
+        "लोकसङ्ग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ॥ २० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.21",
+      "text": [
+        "jad jad āčarati śreṣṭhas tat tad evetaro džanaḥ",
+        "sa jat pramāṇaṁ kurute lokas tad anuvartate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Lai ko cildens cilvēks darītu, pārējie sekos viņa piemēram. Lai kādu patiesību viņš sludinātu, to pieņems visa pasaule."
+          ]
+        }
+      ],
+      "original": [
+        "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\\",
+        "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥ २१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.22",
+      "text": [
+        "na me pārthāsti kartavjaṁ triṣu lokeṣu kiñčana",
+        "nānavāptam avāptavjaṁ varta eva ča karmaṇi"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Prithas dēls! Visās trīs pasaulēs nav tādu pienākumu, kas man jāpilda, jo tajās nav atrodams tas, kas man nepieciešams vai tas, ko Es vēlētos iegūt. Taču, neskatoties uz to, Es pieņemu un pildu savus Visuma uzturētāja pienākumus."
+          ]
+        }
+      ],
+      "original": [
+        "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\\",
+        "नानवाप्त‍मवाप्त‍व्यं वर्त एव च कर्मणि ॥ २२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.23",
+      "text": [
+        "jadi hj ahaṁ na vartejaṁ džātu karmaṇj atandritaḥ",
+        "mama vartmānuvartante manuṣjāḥ pārtha sarvaśaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Ja Es kādu reizi novērsīšos no savu pienākumu veikšanas, visi cilvēki, sekojot Manam piemēram, arī atteiksies no sev paredzēto pienākumu izpildes."
+          ]
+        }
+      ],
+      "original": [
+        "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\\",
+        "मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥ २३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.24",
+      "text": [
+        "utsīdejur ime lokā na kurjāṁ karma čed aham",
+        "saṅkarasja ča kartā sjām upahanjām imāḥ pradžāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ja Es pārstāšu pildīt Savu pienākumu, visu pasauļu iemītnieki, arī atsacījušies no saviem pienākumiem, ies bojā. Tādējādi es būšu atbildīgs par viņu degradāciju, kuru izraisījusi dievticību zaudējušu, nevēlamu pēcnācēju nākšana pasaulē."
+          ]
+        }
+      ],
+      "original": [
+        "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\\",
+        "सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥ २४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.25",
+      "text": [
+        "saktāḥ karmaṇj avidvāṁso jathā kurvanti bhārata",
+        "kurjād vidvāṁs tathāsaktaś čikīrṣur loka-saṅgraham"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna! Tumsoņas strādā savu pasaulīgo vēlmju apmierinājuma dēļ, kamēr viedie — cilvēces labuma dēļ."
+          ]
+        }
+      ],
+      "original": [
+        "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\\",
+        "कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्‍‍ग्रहम् ॥ २५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.26",
+      "text": [
+        "na buddhi-bhedaṁ džanajed adžñānāṁ karma-saṅginām",
+        "jodžajet sarva-karmāṇi vidvān juktaḥ samāčaran"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Viedie nemulsina cilvēkus, kas pieķērušies sava darba augļiem, un nepārliecina viņus būt nolaidīgiem pret darbu. Vēl jo vairāk, ar savu personīgo piemēru viedajiem jāapmāca šos cilvēkus garīgajā praksē, kas ved uz atbrīvi no pasaulīgas pieķeršanās."
+          ]
+        }
+      ],
+      "original": [
+        "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\\",
+        "जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥ २६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.27",
+      "text": [
+        "prakṛteḥ krijamāṇāni guṇaiḥ karmāṇi sarvaśaḥ",
+        "ahaṅkāra-vimūḍhātmā kartāham iti manjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Patiesībā jebkuru darbību veic trīs materiālās pasaules <i class=\"SongVerse__term\">gunas</i>. Taču viltus ego ietekmē tumsonīgi cilvēki uzskata: «Es esmu darbības cēlonis un tās veicējs»."
+          ]
+        }
+      ],
+      "original": [
+        "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\\",
+        "अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥ २७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.28",
+      "text": [
+        "tattvavit tu mahā-bāho guṇa-karma-vibhāgajoḥ",
+        "guṇā guṇeṣu vartanta iti matvā na sadždžate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, stipriniek! Tas, kurš redz patiesību, saprot, ka visas darbības veic materiālās dabas <i class=\"SongVerse__term\">gunas</i>. Vienmēr apzinoties, ka tās ir tikai maņas, kas mijiedarbojas ar to objektiem, šāds cilvēks paliek darbības seku neskarts, kaut arī ārēji viņš var būt pilnībā gremdējies darbībā."
+          ]
+        }
+      ],
+      "original": [
+        "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\\",
+        "गुणा गुणेषु वर्तन्त इति मत्वा न सज्ज‍ते ॥ २८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.29",
+      "text": [
+        "prakṛter guṇa-sammūḍhāḥ sadždžante guṇa-karmasu",
+        "tān akṛtsna-vido mandān kṛtsna-vin na vičālajet"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Taču matērijas savaldzinātie nejēgas, pašu darbības paverdzināti, kļūst par vergiem un vergo savu maņu baudījuma vārdā. Viņu izpratne par pasauli ir virspusēja un viņi nevēlas piepūlēties, lai izprastu savu patieso “es”. To redzēdams, viedais viņus netraucēs."
+          ]
+        }
+      ],
+      "original": [
+        "प्रकृतेर्गुणसम्मूढाः सज्ज‍न्ते गुणकर्मसु ।\\",
+        "तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥ २९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.30",
+      "text": [
+        "maji sarvāṇi karmāṇi sannjasjādhjātma-četasā",
+        "nirāśīr nirmamo bhūtvā judhjasva vigata-džvaraḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Un tā, ar izpratni, ka viss notiek pateicoties Diev-Kunga saldajai gribai, velti visas savas darbības Man! Atbrīvojies no tieksmes pēc sava labuma, kā arī no maldīgās sajūtas, ka tev kaut kas pieder, ne par ko neraizējies, atmet apātiju un meties cīņā!"
+          ]
+        }
+      ],
+      "original": [
+        "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा ।\\",
+        "निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥ ३० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.31",
+      "text": [
+        "je me matam idaṁ nitjam anutiṣṭhanti mānavāḥ",
+        "śraddhāvanto ’nasūjanto mučjante te ’pi karmabhiḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kam piemīt ticība Manai mācībai, kas ir brīvi no skaudības un nelokāmi iet Manis norādīto ceļu, atbrīvojas no darbības un tās seku važām."
+          ]
+        }
+      ],
+      "original": [
+        "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\\",
+        "श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥ ३१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.32",
+      "text": [
+        "je tv etad abhjasūjanto nānutiṣṭhanti me matam",
+        "sarva-džñāna-vimūḍhāṁs tān viddhi naṣṭān ačetasaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Savukārt augstprātīgos tumsoņas, kas nicīgi izturas pret Manu mācību, zini kā pēdējos nejēgas, jo visi viņi ir nolemti."
+          ]
+        }
+      ],
+      "original": [
+        "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\\",
+        "सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥ ३२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.33",
+      "text": [
+        "sadṛśaṁ čeṣṭate svasjāḥ prakṛter džñānavān api",
+        "prakṛtiṁ jānti bhūtāni nigrahaḥ kiṁ kariṣjati"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pat vieds cilvēks rīkojas saskaņā ar savu dabisko pamudinājumu, jo katra dzīva būtne seko savai dabai. Ko gan varētu dot šīs dabas apspiešana?"
+          ]
+        }
+      ],
+      "original": [
+        "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\\",
+        "प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥ ३३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.34",
+      "text": [
+        "indrijasjendrijasjārthe rāga-dveṣau vjavasthitau",
+        "tajor na vaśam āgaččhet tau hj asja paripanthinau"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Maņas darbojas tā, ka tās te iekāro, te atgrūž objektus, taču nedrīkst pakļauties šīm tieksmēm, jo tās rada šķēršļus ceļā uz noliktā pienākuma izpildi."
+          ]
+        }
+      ],
+      "original": [
+        "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\\",
+        "तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥ ३४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.35",
+      "text": [
+        "śrejān svadharmo viguṇaḥ para-dharmāt svanuṣṭhitāt",
+        "svadharme nidhanaṁ śrejaḥ para-dharmo bhajāvahaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Labāk nepilnīgi sekot tam, kas tev ir iepriekš paredzēts, nekā nevainojami pildīt svešu pienākumu. Pildot savu pienākumu, pat nāve var nest labumu, kamēr iet svešu ceļu ir bīstami."
+          ]
+        }
+      ],
+      "original": [
+        "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\\",
+        "स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥ ३५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.36",
+      "text": [
+        "ardžuna uvāča",
+        "atha kena prajukto ’jaṁ pāpañ čarati pūruṣaḥ",
+        "aniččhann api vārṣṇeja balād iva nijodžitaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna jautāja:",
+            "Ak, Vrišni pēcteci, saki, kādi spēki it kā pret cilvēka paša gribu mudina viņu grēkot?"
+          ]
+        }
+      ],
+      "original": [
+        "अर्जुन उवाच\\",
+        "अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\\",
+        "अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥ ३६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.37",
+      "text": [
+        "śrī-bhagavān uvāča",
+        "kāma eṣa krodha eṣa radžoguṇa-samudbhavaḥ",
+        "mahāśano mahā-pāpmā viddhj enam iha vairiṇam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personība atbildēja:",
+            "Ardžūna, šie spēki ir iekāre un dusmas — tās rada kaisles guna. Nepiesātināmas un uz grēku mudinošas, tās ir šīs pasaules lielākie ienaidnieki."
+          ]
+        }
+      ],
+      "original": [
+        "श्री भगवानुवाच\\",
+        "काम एष क्रोध एष रजोगुणसमुद्भ‍वः ।\\",
+        "महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥ ३७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.38",
+      "text": [
+        "dhūmenāvrijate vahnir jathādarśo malena ča",
+        "jatholbenāvṛto garbhas tathā tenedam āvṛtam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Līdzīgi tam, kā uguni ieskauj dūmi, kā spoguli klāj putekļi un kā embriju apņem mātes dzemde, tā arī iekāre aizēno dzīvu būtņu apziņu."
+          ]
+        }
+      ],
+      "original": [
+        "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\\",
+        "यथोल्बेनावृतो गर्भस्तथा तेनेदमावृत्तम् ॥ ३८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.39",
+      "text": [
+        "āvṛtaṁ džñānam etena džñānino nitja-vairiṇā",
+        "kāma-rūpeṇa kaunteja duṣpūreṇānalena ča"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Kuntī dēls, zini, ka iekāre ir lielākais ienaidnieks tiem, kas tiecas apzināties sevi. Tā aprij dzīvu būtni līdzīgi nepiesātināmai liesmai, kuru nav iespējams apdzēst lejot tajā eļu."
+          ]
+        }
+      ],
+      "original": [
+        "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\\",
+        "कामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥ ३९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.40",
+      "text": [
+        "indrijāṇi mano buddhir asjādhiṣṭhānam učjate",
+        "etair vimohajatj eṣa džñānam āvṛtja dehinam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Viedie atzinuši, ka maņas, prāts un saprāts ir iekāres, šī ienaidnieka slēptuves. Apklājot ar aizmirstību materiālā ķermenī iemiesotas dzīvas būtnes garīgo dabu, tā ieved to ilūzijā."
+          ]
+        }
+      ],
+      "original": [
+        "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\\",
+        "एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥ ४० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.41",
+      "text": [
+        "tasmāt tvam indrijāṇj ādau nijamja bhāratarṣabha",
+        "pāpmānaṁ pradžahi hj enaṁ džñāna-vidžñāna-nāśanam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēļ, cēlais Bhārata, pakļauj savas maņas un reizi par visām reizēm uzvari šo grēka iemiesojumu — iekāri. Tā aizēno saprātu un liedz iespēju apgūt garīgās zināšanas."
+          ]
+        }
+      ],
+      "original": [
+        "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\\",
+        "पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥ ४१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.42",
+      "text": [
+        "indrijāṇi parāṇj āhur indrijebhjaḥ paraṁ manaḥ",
+        "manasas tu parā buddhir buddher jaḥ paratas tu saḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka maņas ir augstākas par matēriju, prāts ir augstāks par maņām, saprāts — augstāks par prātu, taču visaugstāko stāvokli ieņēmošā dvēsele pārspēj pat saprātu."
+          ]
+        }
+      ],
+      "original": [
+        "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\\",
+        "मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥ ४२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "3.43",
+      "text": [
+        "evaṁ buddheḥ paraṁ buddhvā saṁstabhjātmānam ātmanā",
+        "džahi śatruṁ mahā-bāho kāma-rūpaṁ durāsadam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Spēkavīr Ardžūna! Nostiprini saprātu iepazīstot dvēseli, kas ir augstāka par to. Ar tavu īsteno “es” saistīts apgaismota saprāta spēks pakļaus prātu un padzīs šo nesavaldāmo ienaidnieku — iekāri."
+          ]
+        }
+      ],
+      "original": [
+        "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\\",
+        "जहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥ ४३ ॥"
+      ],
+      "word_by_word": []
+    }
+  ]
+}

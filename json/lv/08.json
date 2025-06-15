@@ -1,0 +1,581 @@
+{
+  "title": [
+    "8. nodaļa"
+  ],
+  "author": [
+    "Taraka-brahma-joga"
+  ],
+  "subtitle": [
+    "Augstākās realitātes sasniegšana"
+  ],
+  "verses": [
+    {
+      "number": "8.1-2",
+      "text": [
+        "ardžuna uvāča",
+        "kiṁ tad-brahma kim adhjātmaṁ kiṁ karma puruṣottama",
+        "adhibhūtañ ča kiṁ proktam adhidaivaṁ kim učjate",
+        "",
+        "adhijadžñaḥ kathaṁ ko ’tra dehe ’smin madhusūdana",
+        "prajāṇa-kāle ča kathaṁ džñejo ’si nijatātmabhiḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna jautāja:",
+            "Ak, Purušottama, Augstākā Personība! Kas ir Brahmans? Kas ir dvēsele? Kas ir darbība, karma, un kas — materiālā pasaule? Kas ir padievi? Ak, Madhūsudana, dēmona Madhū uzveicēj! Kas ir ziedošanas Valdnieks un kādā veidā Viņš mīt ikvienas dzīvas būtnes ķermenī? Kā tiem, kuri spēj savaldīt savu prātu, atcerēties Tevi nāves brīdī?"
+          ]
+        }
+      ],
+      "original": [
+        "अर्जुन उवाच\\",
+        "किं तद्‌ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\\",
+        "अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥ १ ॥",
+        "",
+        "अधियज्ञ: कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।\\",
+        "प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभि: ॥ २ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.3",
+      "text": [
+        "śrī-bhagavān uvāča",
+        "akṣaraṁ paramaṁ brahma svabhāvo ’dhjātmam učjate",
+        "bhūta-bhāvodbhava-karo visargaḥ karma-saṁdžñitaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personība atbildēja:",
+            "Par Brahmanu sauc to, kas plešas aiz laicīgās pasaules robežām, kas ir mūžīgs un brīvs no pasaulīgiem sārņiem. Dvēsele ir Brahmana daļiņa, kura pēc savām īpašībām ar Viņu ir vienāda. Par karmu sauc darbību, kas izraisa dvēseles pārdzimšanu dažādos ķermeņos materiālajā pasaulē."
+          ]
+        }
+      ],
+      "original": [
+        "श्रीभगवानुवाच\\",
+        "अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\\",
+        "भूतभावोद्भ‍वकरो विसर्ग: कर्मसंज्ञित: ॥ ३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.4",
+      "text": [
+        "adhibhūtaṁ kṣaro bhāvaḥ puruṣaś čādhidaivatam",
+        "adhijadžño ’ham evātra dehe deha-bhṛtāṁ vara"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Ardžūna, labākais no dzimušajiem! Materiālā pasaule ir vieta, kur viss lemts bojāejai. Padievi ir dažādas Mana Visuma veidola izpausmes. Visu ziedošanu Valdnieks esmu Es, Kurš kā Virsdvēsele mīt ikvienas dzīvas būtnes sirdī."
+          ]
+        }
+      ],
+      "original": [
+        "अधिभूतं क्षरो भाव: पुरुषश्चाधिदैवतम् ।\\",
+        "अधियज्ञोऽहमेवात्र देहे देहभृतां वर ॥ ४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.5",
+      "text": [
+        "anta-kāle ča mām eva smaran muktvā kalevaram",
+        "jaḥ prajāti sa mad-bhāvaṁ jāti nāstj atra saṁśajaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš nāves brīdī ar mīlestību atceras Mani, neapšaubāmi sasniedz Mani."
+          ]
+        }
+      ],
+      "original": [
+        "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\\",
+        "य: प्रयाति स मद्भ‍ावं याति नास्त्यत्र संशय: ॥ ५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.6",
+      "text": [
+        "jaṁ jaṁ vāpi smaran bhāvaṁ tjadžatj ante kalevaram",
+        "taṁ tam evaiti kaunteja sadā tad-bhāva-bhāvitaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Par kādu esības līmeni cilvēks domā nāves brīdī, tādu līmeni viņš arī sasniedz."
+          ]
+        }
+      ],
+      "original": [
+        "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\\",
+        "तं तमेवैति कौन्तेय सदा तद्भ‍ावभावित: ॥ ६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.7",
+      "text": [
+        "tasmāt sarveṣu kāleṣu mām anusmara judhja ča",
+        "majj arpita-mano-buddhir mām evaiṣjasj asaṁśajaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēļ jebkuros apstākļos atceries Mani un, pildot savu pienākumu, cīnies. Tādējādi, veltot savu prātu un saprātu Man, tu neapšaubāmi nonāksi pie Manis."
+          ]
+        }
+      ],
+      "original": [
+        "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\\",
+        "मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशय: ॥ ७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.8",
+      "text": [
+        "abhjāsa-joga-juktena četasā nānja-gāminā",
+        "paramaṁ puruṣaṁ divjaṁ jāti pārthānučintajan"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, jogs, kurš vienmēr ir gremdējies meditācijā uz transcendentālo Augstāko Personību un nenovērš savu uzmanību ne uz ko citu, noteikti sasniedz Viņu."
+          ]
+        }
+      ],
+      "original": [
+        "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\\",
+        "परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥ ८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.9",
+      "text": [
+        "kaviṁ purāṇam anuśāsitāram",
+        "aṇor aṇījāṁsam anusmared jaḥ",
+        "sarvasja dhātāram ačintja-rūpam",
+        "āditja-varṇaṁ tamasaḥ parastāt"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Vienmēr atceries mūžseno, visu zinošo, visu vareno Absolūtu. Viņš ir sīkāks par atomu un tajā pašā laikā Viņā balstās viss pastāvošais. Viņa tēls pasaulīgajam prātam nav aptverams, tas mirdz līdzīgi saulei aiz tumsas robežām."
+          ]
+        }
+      ],
+      "original": [
+        "कविं पुराणमनुशासितार-\\",
+        "मणोरणीयांसमनुस्मरेद्य: ।\\",
+        "सर्वस्य धातारमचिन्त्यरूप-\\",
+        "मादित्यवर्णं तमस: परस्तात् ॥ ९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.10",
+      "text": [
+        "prajāṇa-kāle manasāčalena",
+        "bhaktjā jukto joga-balena čaiva",
+        "bhruvor madhje prāṇam āveśja samjak",
+        "sa taṁ paraṁ puruṣam upaiti divjam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš nāves brīdī apvalda prātu, vērš savu dzīvības spēku uz vietu starp uzacīm un, pateicoties jogas praksei, ar mīlestību atceras Visaugsto Kungu, noteikti sasniedz Viņu."
+          ]
+        }
+      ],
+      "original": [
+        "प्रयाणकाले मनसाचलेन\\",
+        "भक्त्य‍ा युक्तो योगबलेन चैव ।\\",
+        "भ्रुवोर्मध्ये प्राणमावेश्य सम्य-\\",
+        "क्स तं परं पुरुषमुपैति दिव्यम् ॥ १० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.11",
+      "text": [
+        "jad akṣaraṁ veda-vido vadanti",
+        "viśanti jad jatajo vīta-rāgāḥ",
+        "jad iččhanto brahmačarjaṁ čaranti",
+        "tat te padaṁ saṅgraheṇa pravakṣje"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tagad Es tev atklāšu to, ko Vēdu pazinēji sauc par “nepārejošo un nekļūdīgo”. Es aprakstīšu to, ko sasniedz no vēlmēm brīvi viedie, pēc kā tiecas seksuālas atturības zvērestu uzņēmušies askēti."
+          ]
+        }
+      ],
+      "original": [
+        "यदक्षरं वेदविदो वदन्ति\\",
+        "विशन्ति यद्यतयो वीतरागा: ।\\",
+        "यदिच्छन्तो ब्रह्मचर्यं चरन्ति\\",
+        "तत्ते पदं सङ्ग्रहेण प्रवक्ष्ये ॥ ११ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.12",
+      "text": [
+        "sarva-dvārāṇi saṁjamja mano hṛdi nirudhja ča",
+        "mūrdhnj ādhājātmanaḥ prāṇam āsthito joga-dhāraṇām"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Aizverot maņu vārtus un atsakoties no jutekliskām baudām, noturot prātu sirdī un vēršot dzīvības spēku uz galvas augšdaļu, jogs nonāk dziļas meditācijas stāvoklī."
+          ]
+        }
+      ],
+      "original": [
+        "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\\",
+        "मूध्‍न्‍‍र्याधायात्मन: प्राणमास्थितो योगधारणाम् ॥ १२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.13",
+      "text": [
+        "om itj ekākṣaraṁ brahma vjāharan mām anusmaran",
+        "jaḥ prajāti tjadžan dehaṁ sa jāti paramāṁ gatim"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Izrunājot svēto zilbi „OM”, no materiālās pasaules sārņiem brīvās, transcendentālās Īstenības skaņas atveidojumu, ķermeņa atstāšanas brīdī viņam jāatceras Mani — šādi viņš sasniegs Manu garīgo mājvietu."
+          ]
+        }
+      ],
+      "original": [
+        "ॐ इत्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।\\",
+        "य: प्रयाति त्यजन्देहं स याति परमां गतिम् ॥ १३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.14",
+      "text": [
+        "ananja-četāḥ satataṁ jo māṁ smarati nitjaśaḥ",
+        "tasjāhaṁ sulabhaḥ pārtha nitja-juktasja joginaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Es esmu viegli sasniedzams tiem, kas ir nelokāmi garīgajā kalpošanā Man un atceras Mani jebkuros apstākļos. Šādas cildenas dvēseles ir ar mīlestības saitēm uz mūžiem saistītas ar Mani."
+          ]
+        }
+      ],
+      "original": [
+        "अनन्यचेता: सततं यो मां स्मरति नित्यश: ।\\",
+        "तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: ॥ १४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.15",
+      "text": [
+        "mām upetja punar džanma duḥkhālajam aśāśvatam",
+        "nāpnuvanti mahātmānaḥ saṁsiddhiṁ paramāṁ gatāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Diženās dvēseles, kuras kļuvušas par Maniem pavadoņiem un Manu dievišķo Rotaļu dalībniekiem, ir atradušas dzīves pilnību. Viņas vairs nekad nepiedzims šajā ciešanu pilnajā laicīgajā pasaulē, jo viņas sasniegušas augstāko tām paredzēto mērķi."
+          ]
+        }
+      ],
+      "original": [
+        "मामुपेत्य पुनर्जन्म दु:खालयमशाश्वतम् ।\\",
+        "नाप्‍नुवन्ति महात्मान: संसिद्धिं परमां गता: ॥ १५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.16",
+      "text": [
+        "ābrahma-bhuvanāl lokāḥ punar āvartino ’rdžuna",
+        "mām upetja tu kaunteja punar džanma na vidjate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pakļaujoties karmas likumiem, materiālā Visuma iemītnieki, sākot ar tā radītāju Brahmu, spiesti pārdzimt dažādos ķermeņos. Taču tas, kurš nonācis Manā mājvietā, Kuntī dēls, nekad vairs nesaskarsies ne ar dzimšanu, ne ar nāvi."
+          ]
+        }
+      ],
+      "original": [
+        "आब्रह्मभुवनाल्ल‍ोका: पुनरावर्तिनोऽर्जुन ।\\",
+        "मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥ १६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.17",
+      "text": [
+        "sahasra-juga-parjantam ahar jad brahmaṇo viduḥ",
+        "rātriṁ juga-sahasrāntāṁ te ’ho-rātra-vido džanāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Brahmas diena ilgst tūkstoš čatur-jūgas un tik pat ilgi turpinās viņa nakts. Tiem, kas to zina, ir pareizs priekšstats par dienu un nakti."
+          ]
+        }
+      ],
+      "original": [
+        "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदु: ।\\",
+        "रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जना: ॥ १७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.18",
+      "text": [
+        "avjaktād vjaktajaḥ sarvāḥ prabhavantj ahar-āgame",
+        "rātrj-āgame pralījante tatraivāvjakta-saṁdžñake"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ar jaunas dienas sākumu dzīvas būtnes mostas un ieņem viņu liktenim atbilstošu stāvokli Visumā, bet, kad pienāk nakts, tās atkal gremdējas miega stāvoklī, kas zināms kā “neizpaustais”."
+          ]
+        }
+      ],
+      "original": [
+        "अव्यक्ताद्‍ व्यक्तय: सर्वा: प्रभवन्त्यहरागमे ।\\",
+        "रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ॥ १८ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.19",
+      "text": [
+        "bhūta-grāmaḥ sa evājaṁ bhūtvā bhūtvā pralījate",
+        "rātrj-āgame ’vaśaḥ pārtha prabhavatj ahar-āgame"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Neskaitāmas dzīvas būtnes šādi parādās un pazūd, pakļaudamās Visuma likumam dzimstot arvien no jauna. Iestājoties Brahmas naktij, tās pazūd “neizpaustajā” un, atnākot jaunai dienai, mostas no nebūtības."
+          ]
+        }
+      ],
+      "original": [
+        "भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते ।\\",
+        "रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे ॥ १९ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.20",
+      "text": [
+        "paras tasmāt tu bhāvo ’njo ’vjakto ’vjaktāt sanātanaḥ",
+        "jaḥ sa sarveṣu bhūteṣu naśjatsu na vinaśjati"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Taču augstāk par šo materiālo “neizpausto” pasauli eksistē cita “neizpaustā” — garīgā pasaule, kura nav atkarīga no radīšanas un iznīcināšanas likumiem."
+          ]
+        }
+      ],
+      "original": [
+        "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातन: ।\\",
+        "य: स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ॥ २० ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.21",
+      "text": [
+        "avjakto ’kṣara itj uktas tam āhuḥ paramāṁ gatim",
+        "jaṁ prāpja na nivartante tad dhāma paramaṁ mama"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Šis pārpasaulīgais, neizpaustais esības līmenis tiek dēvēts par “mūžīgu un brīvu no grēka”. Tas ir transcendentālistu augstākais mērķis. Zini, ka tā ir Mana garīgā mājvieta. Tas, kurš to sasniedz, materiālajā pasaulē nekad vairs neatgriežas."
+          ]
+        }
+      ],
+      "original": [
+        "अव्यक्तोऽक्षर इत्युक्तस्तमाहु: परमां गतिम् ।\\",
+        "यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ॥ २१ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.22",
+      "text": [
+        "puruṣaḥ sa paraḥ pārtha bhaktjā labhjas tv ananjajā",
+        "jasjāntaḥsthāni bhūtāni jena sarvam idaṁ tatam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, Es esmu Augstākā Personība, kuru var sasniegt vienīgi pateicoties tīrai garīgai kalpošanai. Es caurstrāvoju visu un Manī mīt visas dzīvās radības."
+          ]
+        }
+      ],
+      "original": [
+        "पुरुष: स पर: पार्थ भक्त्य‍ा लभ्यस्त्वनन्यया ।\\",
+        "यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् ॥ २२ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.23",
+      "text": [
+        "jatra kāle tv anāvṛttim āvṛttiñ čaiva joginaḥ",
+        "prajātā jānti taṁ kālaṁ vakṣjāmi Bhāratarṣabha"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Labākais no Bhāratas dzimtas! Tagad Es tev pavēstīšu kā diennakts laiks, kurā jogs atstāj šo pasauli, ietekmē to, vai viņš taps atbrīvots, vai arī būs spiests piedzimt no jauna."
+          ]
+        }
+      ],
+      "original": [
+        "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिन: ।\\",
+        "प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ॥ २३ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.24",
+      "text": [
+        "agnir džjotir ahaḥ śuklaḥ ṣaṇ-māsā uttarājaṇam",
+        "tatra prajātā gaččhanti brahma brahma-vido džanāḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kas iepazinuši Brahmanu, sasniedz Viņu, atstājot ķermeni dienas laikā, kad valda uguns un gaismas dievības, divas nedēļas ilgajā augoša mēness fāzē, sešus mēnešus ilgajā laika posmā, kad saule virzās pa ziemeļu orbītu."
+          ]
+        }
+      ],
+      "original": [
+        "अग्न‍िर्ज्योतिरह: शुक्ल‍ः षण्मासा उत्तरायणम् ।\\",
+        "तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जना: ॥ २४ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.25",
+      "text": [
+        "dhūmo rātris tathā kṛṣṇaḥ ṣaṇ-māsā dakṣiṇājanam",
+        "tatra čāndramasaṁ džjotir jogī prāpja nivartate"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Ja tomēr jogs atstāj ķermeni miglas laikā, naktī, divas nedēļas ilgajā dilstoša mēness fāzē, kamēr saule sešus mēnešus atrodas dienvidu orbītā, tad, pat sasniedzis paradīzes pasaules, viņš būs spiests piedzimt no jauna cilvēku pasaulē."
+          ]
+        }
+      ],
+      "original": [
+        "धूमो रात्रिस्तथा कृष्ण: षण्मासा दक्षिणायनम् ।\\",
+        "तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ॥ २५ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.26",
+      "text": [
+        "śukla-kṛṣṇe gatī hj ete džagataḥ śāśvate mate",
+        "ekajā jātj anāvṛttim anjajāvartate punaḥ"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Šie divi materiālās pasaules būtņu ceļi ir mūžīgi un zināmi kā gaišais un tumšais. Pateicoties gaišajam ceļam, dzīvā būtne sasniedz atbrīvi un saplūst ar Brahmanu, bet tumšais ceļš ved uz kārtējo piedzimšanu šajā laicīgajā pasaulē."
+          ]
+        }
+      ],
+      "original": [
+        "श‍ुक्ल‍कृष्णे गती ह्येते जगत: शाश्वते मते ।\\",
+        "एकया यात्यनावृत्तिमन्ययावर्तते पुन: ॥ २६ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.27",
+      "text": [
+        "naite sṛtī pārtha džānan jogī muhjati kaśčana",
+        "tasmāt sarveṣu kāleṣu joga-jukto bhavārdžuna"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, bhakti-jogi zina šos abus ceļus, taču netop to savaldzināti un ilūzijā nekrīt. Tādēļ, Ardžūna, jebkuros apstākļos rīkojies garīgas kalpošanas noskaņojumā."
+          ]
+        }
+      ],
+      "original": [
+        "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।\\",
+        "तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ॥ २७ ॥"
+      ],
+      "word_by_word": []
+    },
+    {
+      "number": "8.28",
+      "text": [
+        "vedeṣu jadžñeṣu tapaḥsu čaiva",
+        "dāneṣu jat puṇja-phalaṁ pradiṣṭam atjeti",
+        "tat sarvam idaṁ viditvā",
+        "jogī paraṁ sthānam upaiti čādjam"
+      ],
+      "translation": [
+        {
+          "type": "lines",
+          "lines": [
+            "Man veltījušās dvēseles sasniegumi vērtējami augstāk, nekā tie, kas gūti pētot un citējot Vēdas, nodarbojoties ar labdarību, ziedojot ugunij, godprātīgi rīkojoties vai pielietojot dažādas askēzes prakses, tādēļ šāda dvēsele sasniedz Manu mūžīgo garīgo mājvietu."
+          ]
+        }
+      ],
+      "original": [
+        "वेदेषु यज्ञेषु तप:सु चैव\\",
+        "दानेषु यत्पुण्यफलं प्रदिष्टम् ।\\",
+        "अत्येति तत्सर्वमिदं विदित्वा\\",
+        "योगी परं स्थानमुपैति चाद्यम् ॥ २८ ॥"
+      ],
+      "word_by_word": []
+    }
+  ]
+}
