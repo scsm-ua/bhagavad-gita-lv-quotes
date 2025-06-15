@@ -106,16 +106,15 @@ gitaVerses.forEach(gitaVerse => {
     }
 });
 
-// Calculate total length of verse (original + translation)
-const getVerseLength = (verse) => {
-    const originalLength = verse.original?.join(' ').length || 0;
-    const translationLength = verse.translation[0]?.lines?.join(' ').length || 0;
-    return originalLength + translationLength;
-};
-
-// Sort verses by total text length
+// Sort verses by chapter and verse number
 output.verses.sort((a, b) => {
-    return getVerseLength(a) - getVerseLength(b);
+    const [aChapter, aVerse] = a.number.split('.').map(Number);
+    const [bChapter, bVerse] = b.number.split('.').map(Number);
+    
+    if (aChapter !== bChapter) {
+        return aChapter - bChapter;
+    }
+    return aVerse - bVerse;
 });
 
 // Ensure output directory exists
