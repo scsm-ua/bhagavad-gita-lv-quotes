@@ -1,1 +1,1 @@
-Preview: https://scsm-ua.github.io/bhagavad-gita-ua-quotes/
+Preview: https://scsm-ua.github.io/bhagavad-gita-lv-quotes/
