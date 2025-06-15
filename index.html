@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bhagavad Gita Verses</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        .controls {
+            padding: 10px;
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            z-index: 1000;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        #tableContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .verse-cell {
+            flex: 0 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+        }
+
+        .verse-cell.fixed-height {
+            height: var(--cell-height, 200px);
+            overflow: auto;
+        }
+
+        .verse-cell.hidden {
+            display: none;
+        }
+
+        .verse-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        .verse-title {
+            margin-bottom: 10px;
+        }
+
+        .verse-original {
+            margin-bottom: 10px;
+        }
+
+        @media print {
+            .controls {
+                display: none;
+            }
+
+            .verse-cell {
+                page-break-inside: avoid;
+                break-inside: avoid;
+            }
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="controls">
+        <label for="columns">Columns count:</label>
+        <input type="number" id="columns" value="2" min="1" max="10">
+        <label>
+            <input type="checkbox" id="showOriginal" checked>
+            Show Sanskrit
+        </label>
+        <label>
+            <input type="checkbox" id="fixedHeight">
+            Fixed Height
+        </label>
+        <input type="number" id="cellHeight" value="200" min="100" max="800" step="50">px
+        <button id="hideControls">Hide</button>
+    </div>
+    <div id="tableContainer"></div>
+
+    <script>
+        let verses = [];
+        let columnsInput = document.getElementById('columns');
+        let hideButton = document.getElementById('hideControls');
+        let showOriginalCheckbox = document.getElementById('showOriginal');
+        let fixedHeightCheckbox = document.getElementById('fixedHeight');
+        let cellHeightInput = document.getElementById('cellHeight');
+        let controls = document.querySelector('.controls');
+
+        hideButton.addEventListener('click', () => {
+            controls.style.display = 'none';
+        });
+
+        async function loadVerses() {
+            try {
+                const response = await fetch('output/all.json');
+                const data = await response.json();
+                verses = data.verses;
+                buildTable();
+            } catch (error) {
+                console.error('Error loading verses:', error);
+            }
+        }
+
+        function checkCellHeight(cell, maxHeight) {
+            const contentDiv = cell.querySelector('.verse-content');
+            if (!contentDiv) return false;
+
+            // If element's scroll height is greater than its client height,
+            // then content is overflowing and scrollbar would be visible
+            const isOverflowing = contentDiv.scrollHeight > contentDiv.clientHeight;
+            
+            // console.log('Scroll check:', {
+            //     cellId: cell.id,
+            //     scrollHeight: contentDiv.scrollHeight,
+            //     clientHeight: contentDiv.clientHeight,
+            //     isOverflowing,
+            //     content: contentDiv.textContent.substring(0, 20) + '...'
+            // });
+            
+            return isOverflowing;
+        }
+
+        function buildTable() {
+            const container = document.getElementById('tableContainer');
+            const columnCount = parseInt(columnsInput.value) || 3;
+            const fixedHeight = fixedHeightCheckbox.checked;
+            const height = cellHeightInput.value;
+            
+            document.documentElement.style.setProperty('--cell-height', `${height}px`);
+            
+            const columnWidth = `calc(${100 / columnCount}% - ${100 * (columnCount - 1) / columnCount}px)`;
+            
+            let html = '';
+            
+            verses.forEach((verse, index) => {
+                const cellId = `cell-${index}`;
+                html += `<div id="${cellId}" class="verse-cell${fixedHeight ? ' fixed-height' : ''}" style="width: ${columnWidth};">`;
+                html += '<div class="verse-content">';
+                html += `<div class="verse-title"><strong>Бгаґавад Ґіта ${verse.number}</strong></div>`;
+                if (showOriginalCheckbox.checked) {
+                    html += `<div class="verse-original"><small>`;
+                    verse.original.forEach(line => {
+                        html += `${line.replace(/\\$/, '')}<br>`;
+                    });
+                    html += `</small></div>`;
+                }
+                if (verse.translation[0] && verse.translation[0].lines) {
+                    html += `<div class="verse-translation">`;
+                    verse.translation[0].lines.forEach(line => {
+                        html += `${line}<br>`;
+                    });
+                    html += `</div>`;
+                }
+                html += '</div></div>';
+            });
+            
+            container.innerHTML = html;
+
+            // Check heights after rendering
+            if (fixedHeight) {
+                const maxHeight = parseInt(height);
+                document.querySelectorAll('.verse-cell.fixed-height').forEach(cell => {
+                    if (checkCellHeight(cell, maxHeight)) {
+                        cell.classList.add('hidden');
+                        console.log('Hiding cell:', cell.id);
+                    }
+                });
+            }
+        }
+
+        // Event listeners
+        columnsInput.addEventListener('change', buildTable);
+        showOriginalCheckbox.addEventListener('change', buildTable);
+        fixedHeightCheckbox.addEventListener('change', buildTable);
+        cellHeightInput.addEventListener('change', buildTable);
+
+        // Initial load
+        loadVerses();
+    </script>
+</body>
+</html>
