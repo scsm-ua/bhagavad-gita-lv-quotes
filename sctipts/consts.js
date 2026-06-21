@@ -1,0 +1,1 @@
+exports.verses_path = './json/ua';

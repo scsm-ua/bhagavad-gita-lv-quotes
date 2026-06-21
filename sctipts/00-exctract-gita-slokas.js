@@ -1,6 +1,7 @@
 // "Бхагавад-гита 12.18–19"
 
 const fs = require('fs');
+const { verses_path } = require('./consts.js');
 
 // Read stats.json with error handling
 let stats;
@@ -68,7 +69,8 @@ const isVerseMatch = (verseNum, targetVerse) => {
 // Read each chapter file and find matching verses
 gitaVerses.forEach(gitaVerse => {
     // Pad chapter number with leading zero
-    const chapterFile = `./json/lv/${gitaVerse.chapter.toString().padStart(2, '0')}.json`;
+
+    const chapterFile = `${verses_path}/${gitaVerse.chapter.toString().padStart(2, '0')}.json`;
     
     try {
         const chapterData = JSON.parse(fs.readFileSync(chapterFile, 'utf8'));
