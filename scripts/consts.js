@@ -1,1 +1,1 @@
-exports.verses_path = './json/ua';
+exports.verses_path = './json/lv';
